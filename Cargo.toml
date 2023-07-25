@@ -2,7 +2,14 @@
 name = "math-analize"
 version = "1.0.0"
 edition = "2021"
-
+description = "Math-Analize library will simplify your work with mathematical functions. This library is ported library from C++ for the Rust language"
+license = ""
+homepage = ""
+repository = "https://github.com/Z-egorov/math-analize-RUST"
+documentation = ""
+readme = ""
+categories = [""]
+keywords = ["math, math-analize, mathematical functions"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
